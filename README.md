@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coohleencoombes
-- 👀 I’m interested in the intersection between pharmacolgy, immunology, and cancer biology
+- 👀 I’m interested in the intersections between data science, oncology, and immunology
 - 🌱 I’m currently learning how to code!
 - 💞️ I’m looking to collaborate on single-cell sequencing on patient-based samples
 - 📫 How to reach me ccoombes@uw.edu
